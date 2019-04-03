@@ -5,29 +5,6 @@ A gift for my lover.
 
 Refer to: <a href="https://github.com/hackerzhou/Love">hackerzhou</a>
 
-## 七夕快乐
-<p><a href="http://黄珊珊.com">演示地址</a></p>
-
-送女票的七夕礼物。
-
-创意部分参考 <a href="https://github.com/hackerzhou/Love">hackerzhou</a>
-
-## 效果展示
-<p align="center">
-  <img src="./demo/heart.png" width="350"/>
-</p>
-<p align="center">
-  <img src="./demo/birthday.png" width="350"/>
-</p>
-
-## Start
-
-``` javascript
-npm install
-npm run dev //开发模式
-npm run build //构建
-
-```
 
 ## 开发说明
 * 所有开发均在app目录下，开发完毕后执行npm run build构建出 /index.html + /public 目录
