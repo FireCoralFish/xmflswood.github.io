@@ -4,8 +4,8 @@ require('@css/normal/code.css')
 require('@css/normal/cursor.css')
 require('@css/normal/normal.css')
 // 配置在一起的日子
-const startTime = '2017/07/10'
-// preload
+const startTime = '2018/07/01'
+// preloa
 document.getElementById('birthday').remove()
 let s1 = require('@img/i-miss-u.png')
 let s2 = require('@img/lips.svg')
@@ -19,7 +19,7 @@ function go () {
     .type('/**', '<span class="note">')
     .type('0', '<br>')
     .type('00', '<span class="blank">')
-    .type('今天wood先生教你写代码呀', '<span class="note">')
+    .type('今天老公教你写代码呀', '<span class="note">')
     .type('0', '<br>')
     .type('00', '<span class="blank">')
     .wait(10)
@@ -58,10 +58,10 @@ function go () {
     .type('boy', '<span class="gray">')
     .type(':', '<span class="blue">')
     .type('0', '<span class="blank">')
-    .type("'wood'", '<span class="green">')
+    .type("'鱼博文'", '<span class="green">')
     .wait(15)
     .del(6)
-    .type("'洪榕森'", '<span class="green">')
+    .type("'於博文'", '<span class="green">')
     .type(',', '<span class="gray">')
     .type('0', '<br>')
     // 珊珊
@@ -69,7 +69,7 @@ function go () {
     .type('girl', '<span class="gray">')
     .type(':', '<span class="blue">')
     .type('0', '<span class="blank">')
-    .type("'黄珊珊'", '<span class="green">')
+    .type("'猪紫薇^(*￣(oo)￣)^'", '<span class="green">')
     .type(',', '<span class="gray">')
     .type('0', '<br>')
     // time
